@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+kasdjf;alksdjf
+=======
+ksdjf;alksdjf
+>>>>>>> parent of 3a20232... rm 2.txt
